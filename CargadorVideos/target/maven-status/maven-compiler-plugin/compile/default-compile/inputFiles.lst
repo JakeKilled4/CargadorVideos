@@ -1,7 +1,10 @@
-/home/david/eclipse-workspace/CargadorVideos/src/main/java/umu/tds/componente/MapperVideosXMLtoJava.java
-/home/david/eclipse-workspace/CargadorVideos/src/main/java/umu/tds/componente/Programa.java
-/home/david/eclipse-workspace/CargadorVideos/src/main/java/umu/tds/componente/Video.java
-/home/david/eclipse-workspace/CargadorVideos/src/main/java/umu/tds/componente/ObjectFactory.java
-/home/david/eclipse-workspace/CargadorVideos/src/main/java/umu/tds/componente/CargadorVideos.java
-/home/david/eclipse-workspace/CargadorVideos/src/main/java/umu/tds/componente/package-info.java
-/home/david/eclipse-workspace/CargadorVideos/src/main/java/umu/tds/componente/Videos.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/MapperVideosXMLtoJava.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/Video.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/VideosEvent.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/VideosListener.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/package-info.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/FicheroIncorrectoException.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/CargadorVideos.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/ICargadorVideos.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/ObjectFactory.java
+/home/david/git/CargadorVideos/CargadorVideos/src/main/java/umu/tds/componente/Videos.java

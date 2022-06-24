@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Name: umu/tds/componente/CargadorVideos.class
+Java-Bean: True

@@ -3,5 +3,4 @@ umu/tds/componente/Videos.class
 umu/tds/componente/CargadorVideos.class
 umu/tds/componente/Video.class
 umu/tds/componente/ObjectFactory.class
-umu/tds/componente/Programa.class
 umu/tds/componente/MapperVideosXMLtoJava.class
